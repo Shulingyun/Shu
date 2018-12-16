@@ -1,2 +1,0 @@
-# Shu
-Newton-Raphson method
